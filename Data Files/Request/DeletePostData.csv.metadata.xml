@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Data untuk request DELETE_Post (producer)</description>
+   <name>DeletePostData</name>
+   <tag></tag>
+   <elementGuidId>2e1b1e39-1424-4cd8-bebd-676157ad11de</elementGuidId>
+   <dataFileType>CSV_TYPE</dataFileType>
+   <fileFormat>
+      <csvFileFormat>
+         <delimiter>,</delimiter>
+         <quoteCharacter>"</quoteCharacter>
+      </csvFileFormat>
+   </fileFormat>
+   <needToFixInAutomation>false</needToFixInAutomation>
+</DataFileEntity>

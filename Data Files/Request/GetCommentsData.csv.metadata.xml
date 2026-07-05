@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Data untuk request GET_Comments_By_PostId (consumer)</description>
+   <name>GetCommentsData</name>
+   <tag></tag>
+   <elementGuidId>c23fdf84-c251-449d-b934-dcc0f3bfb687</elementGuidId>
+   <dataFileType>CSV_TYPE</dataFileType>
+   <fileFormat>
+      <csvFileFormat>
+         <delimiter>,</delimiter>
+         <quoteCharacter>"</quoteCharacter>
+      </csvFileFormat>
+   </fileFormat>
+   <needToFixInAutomation>false</needToFixInAutomation>
+</DataFileEntity>

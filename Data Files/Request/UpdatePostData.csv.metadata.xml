@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Data untuk request PUT_Update_Post (producer)</description>
+   <name>UpdatePostData</name>
+   <tag></tag>
+   <elementGuidId>e1d8fbb9-87db-4f20-ae49-4a54c02295ce</elementGuidId>
+   <dataFileType>CSV_TYPE</dataFileType>
+   <fileFormat>
+      <csvFileFormat>
+         <delimiter>,</delimiter>
+         <quoteCharacter>"</quoteCharacter>
+      </csvFileFormat>
+   </fileFormat>
+   <needToFixInAutomation>false</needToFixInAutomation>
+</DataFileEntity>

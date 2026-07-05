@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kafka Test - Katalon bertindak sebagai CONSUMER, membaca pesan dari topic Kafka lokal (docker-compose-kafka.yml)</description>
+   <name>TC06_Kafka_Consumer_Test</name>
+   <tag>Kafka,Consumer</tag>
+   <comment></comment>
+   <elementGuidId>2ffb6a13-2a15-4c9d-9e3d-3aa111111106</elementGuidId>
+   <isRunSequentially>true</isRunSequentially>
+   <isUseUnattendedMode>false</isUseUnattendedMode>
+   <testCaseGuid>2ffb6a13-2a15-4c9d-9e3d-3aa111111106</testCaseGuid>
+</TestCaseEntity>

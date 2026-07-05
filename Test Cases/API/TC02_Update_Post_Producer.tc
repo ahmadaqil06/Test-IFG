@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Producer Test - Katalon mengirim (produce) perubahan data Post ke JSONPlaceholder API</description>
+   <name>TC02_Update_Post_Producer</name>
+   <tag>API,Producer</tag>
+   <comment></comment>
+   <elementGuidId>2ffb6a13-2a15-4c9d-9e3d-3aa111111102</elementGuidId>
+   <isRunSequentially>true</isRunSequentially>
+   <isUseUnattendedMode>false</isUseUnattendedMode>
+   <testCaseGuid>2ffb6a13-2a15-4c9d-9e3d-3aa111111102</testCaseGuid>
+</TestCaseEntity>

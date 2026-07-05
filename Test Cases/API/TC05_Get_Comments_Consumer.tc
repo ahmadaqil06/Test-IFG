@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Consumer Test - Katalon mengonsumsi (consume) daftar komentar dari sebuah Post di JSONPlaceholder API</description>
+   <name>TC05_Get_Comments_Consumer</name>
+   <tag>API,Consumer</tag>
+   <comment></comment>
+   <elementGuidId>2ffb6a13-2a15-4c9d-9e3d-3aa111111105</elementGuidId>
+   <isRunSequentially>true</isRunSequentially>
+   <isUseUnattendedMode>false</isUseUnattendedMode>
+   <testCaseGuid>2ffb6a13-2a15-4c9d-9e3d-3aa111111105</testCaseGuid>
+</TestCaseEntity>

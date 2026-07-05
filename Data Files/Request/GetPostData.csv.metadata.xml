@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Data untuk request GET_Post_By_Id (consumer)</description>
+   <name>GetPostData</name>
+   <tag></tag>
+   <elementGuidId>090bd996-33b1-48ca-928f-7835ffe5ccfe</elementGuidId>
+   <dataFileType>CSV_TYPE</dataFileType>
+   <fileFormat>
+      <csvFileFormat>
+         <delimiter>,</delimiter>
+         <quoteCharacter>"</quoteCharacter>
+      </csvFileFormat>
+   </fileFormat>
+   <needToFixInAutomation>false</needToFixInAutomation>
+</DataFileEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Producer Test - Katalon mengirim (produce) perintah hapus Post ke JSONPlaceholder API</description>
+   <name>TC03_Delete_Post_Producer</name>
+   <tag>API,Producer</tag>
+   <comment></comment>
+   <elementGuidId>2ffb6a13-2a15-4c9d-9e3d-3aa111111103</elementGuidId>
+   <isRunSequentially>true</isRunSequentially>
+   <isUseUnattendedMode>false</isUseUnattendedMode>
+   <testCaseGuid>2ffb6a13-2a15-4c9d-9e3d-3aa111111103</testCaseGuid>
+</TestCaseEntity>

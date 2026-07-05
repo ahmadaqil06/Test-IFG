@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Producer Test - Katalon mengirim (produce) data Post baru ke JSONPlaceholder API menggunakan data dari Data Files/Request/CreatePostData.csv</description>
+   <name>TC01_Create_Post_Producer</name>
+   <tag>API,Producer</tag>
+   <comment></comment>
+   <elementGuidId>2ffb6a13-2a15-4c9d-9e3d-3aa111111101</elementGuidId>
+   <isRunSequentially>true</isRunSequentially>
+   <isUseUnattendedMode>false</isUseUnattendedMode>
+   <testCaseGuid>2ffb6a13-2a15-4c9d-9e3d-3aa111111101</testCaseGuid>
+</TestCaseEntity>

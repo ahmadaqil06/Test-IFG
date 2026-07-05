@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Data untuk request POST_Create_Post (producer)</description>
+   <name>CreatePostData</name>
+   <tag></tag>
+   <elementGuidId>c2c7e73d-9302-45c6-b974-5df60800713c</elementGuidId>
+   <dataFileType>CSV_TYPE</dataFileType>
+   <fileFormat>
+      <csvFileFormat>
+         <delimiter>,</delimiter>
+         <quoteCharacter>"</quoteCharacter>
+      </csvFileFormat>
+   </fileFormat>
+   <needToFixInAutomation>false</needToFixInAutomation>
+</DataFileEntity>
